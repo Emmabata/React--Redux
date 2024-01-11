@@ -28,7 +28,7 @@ const App = () => {
   return (
     <div className='App' style={{ fontFamily: randomFont}}>
       <h1 style={{marginTop:"10px"}}>ToDo App</h1>
-      <img src={require("../src/assets/logo.jpg")}
+      <img src={require("../src/assets/globe.jpg")}
       alt="logo" 
       className='rotate-image'
 
